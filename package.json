@@ -33,7 +33,7 @@
     "iconv-lite": "^0.4.24",
     "jade": "~1.11.0",
     "markdown": "~0.5.0",
-    "restructure": "foliojs/restructure#refs/pull/22/head"
+    "restructure": "ArthurClemens/restructure"
   },
   "dependencies": {
     "fontkit": "^1.7.7",
